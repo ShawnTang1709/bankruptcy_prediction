@@ -1,0 +1,1 @@
+pip install sentence-transformers langchain_community langchain tf-keras chromadb langchain-google-genai
